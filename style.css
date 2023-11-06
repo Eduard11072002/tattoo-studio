@@ -490,7 +490,7 @@ sup{
 
 @media screen and (max-width: 768px){
     #prices{
-        height: 260vh;
+        height: 250vh;
     }
 
     .card-container{
@@ -499,7 +499,7 @@ sup{
     }
 
     .card{
-        margin-left: 35px;
+        margin-left: 5px;
     }
 }
 
